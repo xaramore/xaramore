@@ -1,7 +1,7 @@
 ### Hello, I'm Sarah 👋
 
 - ⚡ I'm a fan of AI and Machine Learning.
-- 🔭 I’m currently working on [There's An AI](https://theresanai.com)
+- 🔭 I’m currently working on [There's An AI](https://theresanai.com) ([Linktree](https://linktr.ee/theresanai))
 
 I'm maintainer of some awesome list:
 
