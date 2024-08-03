@@ -1,7 +1,7 @@
 ### Hello, I'm Sarah 👋
 
 - ⚡ I'm a fan of AI and Machine Learning.
-- 🔭 I’m currently working on [There's An AI](https://theresanai.com) ([Linktree](https://linktr.ee/theresanai))
+- 🔭 I’m currently working on [There's An AI](https://theresanai.com) ([Linktree](https://linktr.ee/theresanai)) ([Altern](https://altern.ai/@xaramore))
 
 I'm maintainer of some awesome list:
 
@@ -10,7 +10,8 @@ I'm maintainer of some awesome list:
 - ✨ [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
 - ✨ [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
 - ✨ [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
-- ✨  [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing) 
+- ✨  [Awesome AI Writing](https://github.com/xaramore/awesome-ai-writing)
+
 
 
 
