@@ -5,8 +5,8 @@
 
 I'm maintainer of some awesome list:
 
-- ✨ [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
-- ✨ [Awesome AI Marketing](https://github.com/xaramore/awesome-ai-marketing) 
+- ✨ [Awesome AI SEO Tools](https://github.com/xaramore/awesome-ai-seo)
+- ✨ [Awesome AI Marketing Tools](https://github.com/xaramore/awesome-ai-marketing) 
 - ✨ [Awesome AI Music](https://github.com/xaramore/awesome-ai-music) 
 - ✨ [Awesome AI Image](https://github.com/xaramore/awesome-ai-image) 
 - ✨ [Awesome AI Video](https://github.com/xaramore/awesome-ai-video)
